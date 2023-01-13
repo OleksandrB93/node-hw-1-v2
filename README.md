@@ -1,12 +1,20 @@
 # Отримуємо і виводимо весь список контактів у вигляді таблиці (console.table)
+
 https://monosnap.com/file/NYkvaTmJxQDmZ3E0ktt9VsyhOUJZ85
+<img alt='task1' width='400' src='https://d3dehtdmp2rwcw.cloudfront.net/ms_550098/HCkkocM6UKLDUBp5slPtaIZ4IFNMYC/%25D0%2597%25D0%25BD%25D1%2596%25D0%25BC%25D0%25BE%25D0%25BA%2B%25D0%25B5%25D0%25BA%25D1%2580%25D0%25B0%25D0%25BD%25D0%25B0%2B%25D0%25B7%2B2023-01-12%2B15-54-27.png?Expires=1673604000&Signature=JHJJJFD059xQp9XxY9kNePehbak~XoljRGelI7FDAEXWyf7RzUaBBlAAP3UkgeIlJa-qHN9MTLHWzVnFBPmD0bF9~3jrXiNqj5gZ-wjfzUFXv67wE57acgWOzuvuUavUws2J2FupwdLCGDFKoAhgb9VNLubef8QUkNuqykmwo6nRxFcozK5gefcY-7hmeCES6aN07L0ENmN3fWKiADQXm9qytCMOJ3AkdYJAoYW1BzyIPWIPI5i7a6xTLaZiZfPkJWgy5RuvfIAzMQbuHYS5HowdysZ4VB5oAu~bx3pHHgn~daJhOQye0PJT1Z1k6au67N-JMJgutbx7WKovhzmjvQ__&Key-Pair-Id=APKAJBCGYQYURKHBGCOA'>
 
 # Отримуємо контакт по id
+
 https://monosnap.com/file/bqCRjZoA2QQ09UPRqi9ejJ3HQW022O
+<img alt='task1' width='400' src='https://d3dehtdmp2rwcw.cloudfront.net/ms_550098/yXL4jAWSn1E1Oq81FQkBm7ZDSapuuo/%25D0%2597%25D0%25BD%25D1%2596%25D0%25BC%25D0%25BE%25D0%25BA%2B%25D0%25B5%25D0%25BA%25D1%2580%25D0%25B0%25D0%25BD%25D0%25B0%2B%25D0%25B7%2B2023-01-12%2B15-55-57.png?Expires=1673604000&Signature=fW~gGYyvo9rHxNxqLCgdB~JCUjHyAPHSMcujUftEGkqxcy0O~WK-nXk63160LcRfda4hRNQ3jAq0fzy~6D4ZkmXcvtpnbmixo9pZUydKnuIO-rSaOHOQlnDNEOyYgOlRyhSs5hSfc~Mj7kW5tWGsxbesMbmpDRgLvWf~l1EYmDg43pQq96iblLNBnQvuLvvR4fl8drLr3whs23Rr636~Uc4dTT~QKbR~BoMhg7FIONyOuIPOI0aDWgcNHbcD3bVn~V5DD-bX5~NU~TgUbynoqYx9NcYzfj8yfLfrEmLypaHLIZxN7k9FOtJqRCWO99DobCePVQdfLMFP~4Nvt2IUbw__&Key-Pair-Id=APKAJBCGYQYURKHBGCOA'>
 
 # Додаємо контакт
+
 https://monosnap.com/file/6AOFJ6KcM68KrVUDonn2i1NFRwmfAQ
+<img alt='task1' width='400' src='https://d3dehtdmp2rwcw.cloudfront.net/ms_550098/eU3JUup2sMdl3DTaQJNmuji1PRFFZM/%25D0%2597%25D0%25BD%25D1%2596%25D0%25BC%25D0%25BE%25D0%25BA%2B%25D0%25B5%25D0%25BA%25D1%2580%25D0%25B0%25D0%25BD%25D0%25B0%2B%25D0%25B7%2B2023-01-12%2B15-57-11.png?Expires=1673604000&Signature=r-GIcuu~XqSL2R0aJEmucAO1jR3xdpIbE70bgtQIpJKF0glsFIMLu-dB0nfx~fB12XoZ2yvoMGtRi3Stfi~vJM~rQk0fT0zNkxkCcaF8SAYiAlGLGQULWp8-9yPCZC2lQjUzhKZffkggfKzgZnSTMSPW4c3FxgiTA6jUB95MkCoO32p2mvvTqCaM19E~HvHkBS8EKNrhO3lTsepMZWdm0EWEzbcj-bGjFnjAZ08gwJDmK-pPHNk5MiuTX14wCp17b64rlkEDC0kaeTXBMjjCFui7j1WT-2ERzoR9mj38JFi7T0d5sss25wp7o2pBm5rf8W8ApgfFTOWJIm8vocWoyw__&Key-Pair-Id=APKAJBCGYQYURKHBGCOA'>
 
 # Видаляємо контакт
-https://monosnap.com/file/ZOPPePuYFZGFSsNIWshodyt4OMUEmQinfo about this project
-info about this project
+
+https://monosnap.com/file/ZOPPePuYFZGFSsNIWshodyt4OMUEmQ
+
+<img alt='task1' width='400' src='https://d3dehtdmp2rwcw.cloudfront.net/ms_550098/vY5v810qfyliy1EoJm3qZgvmrNAbld/%25D0%2597%25D0%25BD%25D1%2596%25D0%25BC%25D0%25BE%25D0%25BA%2B%25D0%25B5%25D0%25BA%25D1%2580%25D0%25B0%25D0%25BD%25D0%25B0%2B%25D0%25B7%2B2023-01-12%2B15-57-30.png?Expires=1673604000&Signature=rKtVyGJBLyjxIgfbbJJY9AUVo~xRfwbieglMULRXyLpukGCjnyv1TgjhxsoDt68Mf4pyzH08T0J-HZuY-A8TYkXx-AgtMw2sy6w0gnUxYoC7JBFppoT~0ex4lmoVAK~HBe2K50kTEn53hXEcbIoEsSFv3Lv9qFBPJfP1wHKfGVf8HGXVekh7d1H0niHHV20zMQFUrlg9SBlU4odDEcY0iWB3Ufp1LDWKS5rAziEimVJSgU30BS33wM25E8J3Qb5DzbPGJo9Zm1IGVudUHUQ3nNJzPb7GttryRHG21sDyhLBPGw-ynQyevAKWyc9aEOlkngCBkKPlYqhGxYxZkItbkA__&Key-Pair-Id=APKAJBCGYQYURKHBGCOA'>
